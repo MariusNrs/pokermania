@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8c8e660-d20e-4e44-9be6-376b66444e95" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="home.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/pages/home.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="highlights.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/highlights.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="596" lean-forward="false" selection-start-line="23" selection-start-column="596" selection-end-line="23" selection-end-column="596" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/posts.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="114" lean-forward="false" selection-start-line="36" selection-start-column="114" selection-end-line="36" selection-end-column="114" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20046175_1722992844460098_616093147_n.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/imgs/20046175_1722992844460098_616093147_n.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20046000_809532459222083_30304704_n.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/imgs/20046000_809532459222083_30304704_n.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19989193_1722992747793441_2100573829_n.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/imgs/19989193_1722992747793441_2100573829_n.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/banner.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>icon</find>
+      <find>.i</find>
+      <find>poker</find>
+      <find>contai</find>
+      <find>banner</find>
+      <find>a</find>
+      <find>spad</find>
+      <find>logo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/testing/cms.php" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/pages/contact.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/pages/portfolio.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/content/social.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/pages/home.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-home/utility.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-all/footer.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-all/copyright.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-contact/mainpage.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-contact/header.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-all/navigation.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-portfolio/header.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-portfolio/mainpage.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-home/feature.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-home/extension.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-home/bottom.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-about/header.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-about/mainpage.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/scss/theme/_theme.scss" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/content/copyright.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/pages/about.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/config/fields.yaml" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/layouts/octaskin.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-home/mainpage.htm" />
+        <option value="$PROJECT_DIR$/themes/laratify-octobercms-octaskin/partials/pages-home/slideshow.htm" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/pages/left-sidebar.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/pages/two-sidebar.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/sass/libs/_skel.scss" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/sass/main.scss" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/fonts/fontawesome-webfont.svg" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/fonts/icomoon.svg" />
+        <option value="$USER_HOME$/Desktop/icomoon(2)/fonts/icomoon.svg" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/css/icomoon.css" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/css/SlidingMenu.css" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/js/jquery.kaibanner.js" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/js/SlidingMenu.js" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/partials/home/highlights.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/pages/home.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/partials/home/banner.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/partials/home/heading.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/pages/about-us.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/partials/template/footer.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/partials/template/header.htm" />
+        <option value="$PROJECT_DIR$/themes/martin-arcana/partials/home/posts.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pokermania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pokermania" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pokermania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pokermania" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pokermania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pokermania" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="martin-arcana" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pokermania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pokermania" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="martin-arcana" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\martin-arcana\assets\fonts" />
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\laratify-octobercms-octaskin\assets\img\pages\home\mainpage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\martin-arcana\assets\imgs" />
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\martin-arcana\assets\images" />
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\martin-arcana\assets\js" />
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\martin-arcana\assets\css" />
+      <recent name="C:\Users\Marius\Documents\server\pizzamaker2\themes\martin-arcana\assets\css\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8c8e660-d20e-4e44-9be6-376b66444e95" name="Default" comment="" />
+      <created>1499073837955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499073837955</updated>
+      <workItem from="1499073839140" duration="12083000" />
+      <workItem from="1499614541669" duration="1094000" />
+      <workItem from="1499784465642" duration="5821000" />
+      <workItem from="1499937948559" duration="12968000" />
+      <workItem from="1500116002072" duration="7774000" />
+      <workItem from="1500199784721" duration="5701000" />
+      <workItem from="1500237216792" duration="1029000" />
+      <workItem from="1500357442580" duration="16559000" />
+      <workItem from="1500392308633" duration="14143000" />
+      <workItem from="1500444823781" duration="15949000" />
+      <workItem from="1500536642398" duration="15380000" />
+      <workItem from="1500819519714" duration="20415000" />
+      <workItem from="1500849170723" duration="36000" />
+      <workItem from="1500849488241" duration="1072000" />
+      <workItem from="1500859260542" duration="5680000" />
+      <workItem from="1500881091125" duration="9721000" />
+      <workItem from="1501057030275" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146060000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/template/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7190">
+          <caret line="2158" column="23" lean-forward="false" selection-start-line="2158" selection-start-column="23" selection-end-line="2158" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/template/footer_form.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/template/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/slideshow/img-03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/extension/img-02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/extension/img-03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/bottom/img-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/19970806_809497105892285_812354220_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/19987406_809528972555765_924833706_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/19988768_809530099222319_861386356_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/20046000_809532459222083_30304704_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/20048671_809501779225151_425848955_o.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/contrastas.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/contrastas2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/img-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/img-02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/mainpage/shutterstock_100557667.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/about/mainpage/img-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/slideshow/19495912_808145886027407_1355430465_o.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/slideshow/e886c57d9d.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/slideshow/sht_61202320_1280x700_3859530034fc8a43ea74ad.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/PP_Acceptance_Marks_for_LogoCenter_266x142.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/Twitter-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/portfolio/mainpage/img-06.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/portfolio/mainpage/img-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/portfolio/mainpage/img-02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/portfolio/mainpage/img-03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/portfolio/mainpage/img-04.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/img-02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/img-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/googleplus-100598530-large.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/Facebook_logo-17.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/facebook-logo-vector-400x400.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/home/utility/4890852_instagram_jpeg81d3fdebc0e0818a2a43d41548545998.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/laratify-octobercms-octaskin/assets/img/pages/portfolio/mainpage/img-05.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/pages/about-us.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="34" column="30" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/heading.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/pages/no-sidebar.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/pages/right-sidebar.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/pages/two-sidebar.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/imgs/19989193_1722992747793441_2100573829_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/cta.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/highlights.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="596" lean-forward="false" selection-start-line="23" selection-start-column="596" selection-end-line="23" selection-end-column="596" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/banner.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/imgs/20046175_1722992844460098_616093147_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/assets/imgs/20046000_809532459222083_30304704_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/martin-arcana/partials/home/posts.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="114" lean-forward="false" selection-start-line="36" selection-start-column="114" selection-end-line="36" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

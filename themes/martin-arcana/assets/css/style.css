@@ -63,8 +63,8 @@
   overflow: hidden;
 }
 
-.kai_banner_container .kai_banner_body   > img {
-width: 100%; background-size: cover;  height: 100%; z-index: 103;
+.kai_banner_container .kai_banner_body    > img {
+min-height: 180px; width: 100%; background-size: cover;   z-index: 103; background-position: center center;
 }
 
 .kai_banner_container .kai_banner_bottombtns {
